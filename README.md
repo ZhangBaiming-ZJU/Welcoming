@@ -39,6 +39,6 @@ I'm now doing research in 🔬 Quantum Computational Fluid Dynamics.
 
 ## 😊 What I'm proud for
 
-1. 🎉 Being publicly praised on the official website of the School of Aeronautics and Astronautics at Zhejiang University for being the first student of our school to receive the award of World Champion Gold Medal at the International College Student Engineering Mechanics Competition.
+1. 🎉 Being publicly praised on the official website of the School of Aeronautics and Astronautics at Zhejiang University for being **the first student** of our school to receive the award of World Champion **Gold Medal** at the International College Student Engineering Mechanics Competition.
 
-2. 💡 I hope to achieve a breakthrough in cutting-edge quantum neural networks!
+2. 💡 I hope to achieve a **breakthrough** in cutting-edge quantum neural networks!
