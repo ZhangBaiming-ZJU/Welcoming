@@ -25,7 +25,7 @@ I'm now doing research in 🔬 Quantum Computational Fluid Dynamics.
   I delved into the study of neural networks, including Physics-Informed Neural Networks (PINN) and Hamilton Neural Networks (HNN), as well as smaller networks like Taylor-Net.
 
 - 💡 **June 2025 - Present:** 
-  Leveraging my early knowledge in quantum computing and current expertise in neural networks, I have been working on Quantum Hamilton Neural Networks (QHNN).
+  Leveraging my early knowledge in quantum computing and current expertise in neural networks, I have been working on an original project called Quantum Hamilton Neural Networks (QHNN).
 
 ## 🏅 Awards and Honors
 
@@ -45,4 +45,4 @@ I'm now doing research in 🔬 Quantum Computational Fluid Dynamics.
 
 1. 🎉 Being publicly praised on the official website of the School of Aeronautics and Astronautics at Zhejiang University for being **the first student** of our school to receive the award of World Champion **Gold Medal** at the International College Student Engineering Mechanics Competition.
 
-2. 💡 I hope to achieve a **breakthrough** in cutting-edge quantum neural networks!
+2. 💡 I hope to achieve a **breakthrough** in cutting-edge quantum neural networks! If you are also interested, I hope you can contact me! Also, I sincerely wish you to email me if you have any suggestions. Lot's of Thanks in advance!
