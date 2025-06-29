@@ -32,7 +32,7 @@ I'm now doing research in 🔬 Quantum Computational Fluid Dynamics.
 1. 🥇 **International College Student Engineering Mechanics Competition**  
    World Champion Gold Medal
 
-2. 🏆 **China National College Student Zhou Peiyuan Mechanics Competition**  
+2. 🏆 **Chinese National College Student Zhou Peiyuan Mechanics Competition**  
    First Prize
 
 3. 📜 **Government Scholarship**
