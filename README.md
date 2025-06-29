@@ -14,7 +14,7 @@ I'm now doing research in 🔬 Quantum Computational Fluid Dynamics.
   Under the guidance of Professor Dawei Wang, Dr. Xingqi Xu and Dr. Jiefei Wang, I engaged in research within the field of quantum optics, focusing on Rydberg atoms and topological insulators.
 
 - 🧲 **June 2024 - December 2024:** 
-  I explored magnetic field precision measurement and attempted a transition into the study of Fock states and quantum Hall effect.
+  I explored magnetic field precision measurement and attempted a transition into the study of Fock states and 4D Quantum Hall Effect.
 
 ### 🌊 Fluid Mechanics and Quantum Computing
 - 📚 **January 2025 - April 2025:** 
