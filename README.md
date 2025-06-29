@@ -1,6 +1,8 @@
 # Welcome to Baiming Zhang's GitHub Desktop!
 
-I'm a junior undergraduate majoring in Engineering Mechanics at Chu Kochen Honors College. I've been doing research in Quantum Computational Fluid Dynamics.
+I'm a junior undergraduate majoring in Engineering Mechanics at School of Aeronautics and Astronautics(Chu Kochen Honors College) with a grade of 3.93/4.0.
+
+I'm now doing research in Quantum Computational Fluid Dynamics.
 
 # Academic and Research Experience
 
