@@ -27,7 +27,7 @@ I'm now doing research in Quantum Computational Fluid Dynamics.
   Leveraging my early knowledge in quantum computing and current expertise in neural networks, I have been working on Quantum Hamilton Neural Networks (QHNN).
 
 
-  # Awards and Honors
+# Awards and Honors
 
 1. **International College Student Engineering Mechanics Competition**  
    World Champion Gold Medal
