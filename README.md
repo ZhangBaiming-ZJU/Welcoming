@@ -20,7 +20,7 @@ I'm now doing research in 🔬 Quantum Computational Fluid Dynamics.
 - 📚 **January 2025 - April 2025:** 
   Under the mentorship of Professor Shiying Xiong, I shifted my focus to fluid dynamics and quantum computing within my major. I also contributed to a portion of the book writing related to my advisor's research.
 
-### 🧠 Neural Networks and Quantum Hamilton Neural Networks (QHNN)
+### 🧠 Machine learning and Quantum Hamilton Neural Networks (QHNN)
 - 🤖 **April 2025 - June 2025:** 
   I delved into the study of neural networks, including Physics-Informed Neural Networks (PINN) and Hamilton Neural Networks (HNN), as well as smaller networks like Taylor-Net.
 
