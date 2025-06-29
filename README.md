@@ -31,11 +31,11 @@ I'm now doing research in 🔬 Quantum Computational Fluid Dynamics.
 
 1. 🥇 International College Student Engineering Mechanics Competition  
 
-   **World Champion Gold Medal**
+   **World Gold Medal (Top 0.1%)**
 
 2. 🏆 Chinese National College Student Zhou Peiyuan Mechanics Competition  
 
-   **First Prize**
+   **First Prize (Top 1%)**
 
 3. 📜 Government Scholarship
 
